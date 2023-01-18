@@ -99,3 +99,26 @@ host? ecord
 | telehack | --> | veritas | --> | uunet | --> | atina | --> | ecord |
 +----------+     +---------+     +-------+     +-------+     +-------+
 ```
+6. Vaca paranoica pidiendo auxilio
+
+```
+@cowsay /paranoid auxilio
+ _________
+< auxilio >
+ ---------
+        \   ^__^
+         \  (@@)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+                
+@/cowsay /stoned ola
+ _____
+< ola >
+ -----
+        \   ^__^
+         \  (**)\_______
+            (__)\       )\/\
+             U  ||----w |
+                ||     ||
+```                
