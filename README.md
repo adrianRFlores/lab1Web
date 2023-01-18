@@ -87,3 +87,15 @@ text? May the command line live forever
 ##################################################################
 ##################################################################
 ```
+5. Path TCP entre telehack.com y el host "ecord" + dibujo del path en ascii
+
+```
+.uupath
+host? ecord
+telehack!veritas!uunet!atina!ecord
+.uuplot
+host? ecord
++----------+     +---------+     +-------+     +-------+     +-------+
+| telehack | --> | veritas | --> | uunet | --> | atina | --> | ecord |
++----------+     +---------+     +-------+     +-------+     +-------+
+```
