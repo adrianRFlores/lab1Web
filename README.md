@@ -10,3 +10,13 @@
     A large coil of rope is lying in the corner.                                                                           
     On a table is a nasty-looking knife.   
 ```
+
+2. ¿Cuál es el output de este programa de Brainfuck?
+ ``` ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>. ```
+ 
+  ```
+  .bf
+  Enter line(s) of Brainfuck code. Press control-D to execute.
+  : ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
+  :
+  Hello World!```
